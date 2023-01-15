@@ -1,0 +1,21 @@
+{
+  "name": "starter-nextjs-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mamun1646/starter-nextjs-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mamun1646/starter-nextjs-typescript/issues"
+  },
+  "homepage": "https://github.com/Mamun1646/starter-nextjs-typescript#readme"
+}
