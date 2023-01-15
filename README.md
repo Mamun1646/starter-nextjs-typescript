@@ -1,1 +1,1 @@
-# starter-nextjs-typescript
+# run ```npx starter-nextjs-typescript```
